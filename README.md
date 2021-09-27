@@ -22,6 +22,12 @@ Positions.csv [Either create your own csv or export from linkedin]
 
 ## To just build resume.json
 ```
+git clone https://github.com/bsdpunk/resumeTools
+cd resumeTools
+mkdir -p output
+csv2json $YOUR_POSITIONS_CSV > output/Positions.json
+npm install inquirer
+npm install package.json
 node first.sh
 ```
 
