@@ -42,5 +42,7 @@ Freelance,Web Developer,"A lot of personal projects, and some telecom projects w
 ```
 <br />
 
+## Resume.json
 
+resume.json will reside in output/resume.json
 # resumeTools

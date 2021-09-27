@@ -228,5 +228,6 @@ res[i]["Description"] = res[i]["Description"] + "."
     console.log(resume)
 
     let compile = JSON.stringify(resume);
-    fs.writeFileSync('output/new.json', compile);   console.log(`Hi ${answers['bname']}!`)
+    fs.writeFileSync('output/new.json', compile);
+    fs.writeFileSync('output/resume.json', compile);
 })
