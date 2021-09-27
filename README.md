@@ -45,4 +45,8 @@ Freelance,Web Developer,"A lot of personal projects, and some telecom projects w
 ## Resume.json
 
 resume.json will reside in output/resume.json
+
+## Known Problems
+
+Unusual Charachters in companies name, may cause pdflatex to break, as well as control characters, extra long Descriptions, or No Descriptions.
 # resumeTools
