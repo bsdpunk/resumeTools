@@ -29,9 +29,9 @@ node first.sh
 
 
 This is a csv either exported from linkedin or Hand Created
-Example CSV:
-Company Name,Title,Description,Location,Started On,Finished On
-Freelance,Web Developer,"A lot of personal projects, and some telecom projects with various individuals PHP Development with propel. ( Symfony Compent) Node.js development  jQuery Development Perl Development",,Sep 2013,Sep 2014
+Example CSV: <br />
+Company Name,Title,Description,Location,Started On,Finished On <br />
+Freelance,Web Developer,"A lot of personal projects, and some telecom projects with various individuals PHP Development with propel. ( Symfony Compent) Node.js development  jQuery Development Perl Development",,Sep 2013,Sep 2014<br />
 
 
 
