@@ -1,6 +1,6 @@
 const fs = require('fs');
 const inquirer = require('inquirer')
-let rawdata = fs.readFileSync("Positions.json");
+let rawdata = fs.readFileSync("output/Positions.json");
 
 let res = JSON.parse(rawdata);
 
@@ -228,5 +228,5 @@ res[i]["Description"] = res[i]["Description"] + "."
     console.log(resume)
 
     let compile = JSON.stringify(resume);
-    fs.writeFileSync('new.json', compile);   console.log(`Hi ${answers['bname']}!`)
+    fs.writeFileSync('output/new.json', compile);   console.log(`Hi ${answers['bname']}!`)
 })

@@ -1,6 +1,6 @@
 
 const fs = require('fs');
-let rawdata = fs.readFileSync(new.json);  
+let rawdata = fs.readFileSync("output/new.json");  
 let res = JSON.parse(rawdata);
 
 console.log("\\documentclass[11pt,a4paper,sans]{moderncv}")

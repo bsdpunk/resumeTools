@@ -18,7 +18,19 @@
 #===============================================================================
 
 set -o nounset                              # Treat unset variables as an error
-csv2json Positions.csv
+mkdir -p output
+echo "Where is your Positions.csv file?"
+echo "This is a csv either exported from linkedin or HandCreated"
+echo "Example CSV:"
+echo "Company Name,Title,Description,Location,Started On,Finished On"
+echo "PHS4J,Sr Linux Engineer,,\"Greater Nashville Area, TN\",Apr 2017,Sep 2021"
+
+echo "Example Location:"
+echo "/home/dusty/download/Positions.csv"
+echo "or"
+echo "Positions.csv"
+read POS
+csv2json $POS > output/Positions.json
 node first.js
-node json2latex.js > resume.tex
-pdflatex resume.tex
+node json2latex.js > output/resume.tex
+pdflatex --output-directory=output output/resume.tex
