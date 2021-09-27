@@ -23,7 +23,7 @@ echo "Where is your Positions.csv file?"
 echo "This is a csv either exported from linkedin or HandCreated"
 echo "Example CSV:"
 echo "Company Name,Title,Description,Location,Started On,Finished On"
-echo "PHS4J,Sr Linux Engineer,,\"Greater Nashville Area, TN\",Apr 2017,Sep 2021"
+echo "Freelance,Web Developer,\"A lot of personal projects, and some telecom projects with various individuals PHP Development with propel. ( Symfony Compent) Node.js development  jQuery Development Perl Development\",,Sep 2013,Sep 2014"
 
 echo "Example Location:"
 echo "/home/dusty/download/Positions.csv"
