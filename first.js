@@ -2,9 +2,11 @@ const fs = require('fs');
 const inquirer = require('inquirer')
 let rawdata = fs.readFileSync("output/Positions.json");
 let rawHon = fs.readFileSync("output/Honors.json");
+let rawSki = fs.readFileSync("output/Skills.json");
 
 let res = JSON.parse(rawdata);
 let hon = JSON.parse(rawHon);
+let skill = JSON.parse(rawSki);
 
 
 var questions = [
@@ -234,6 +236,12 @@ inquirer.prompt(questions).then(answers => {
 
     }
 
+    for (i = 0; i < skill.length; i++) {
+        resume.skills[i] = {
+            "name": skill[i]["Name"]
+        }
+
+    }
 
     console.log(resume)
 

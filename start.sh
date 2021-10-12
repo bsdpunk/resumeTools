@@ -26,7 +26,7 @@ echo "Company Name,Title,Description,Location,Started On,Finished On"
 echo "Freelance,Web Developer,\"A lot of personal projects, and some telecom projects with various individuals PHP Development with propel. ( Symfony Compent) Node.js development  jQuery Development Perl Development\",,Sep 2013,Sep 2014"
 
 echo "Example Location:"
-echo "/home/dusty/download/Positions.csv"
+echo "/home/dusty/Download/Positions.csv"
 echo "or"
 echo "Positions.csv"
 read POS
@@ -40,12 +40,26 @@ echo "Information Technology Award Recipient,This is given to one student of eac
 
 
 echo "Example Location:"
-echo "/home/dusty/download/Honors.csv"
+echo "/home/dusty/Download/Honors.csv"
 echo "or"
 echo "Honors.csv"
 read HON
 csv2json $HON > output/Honors.json
 
+echo "Where is your Skills.csv file?"
+echo "This is a csv either exported from linkedin or HandCreated"
+echo "Example CSV:"
+
+echo "Name"
+echo "Linux"
+
+
+echo "Example Location:"
+echo "/home/dusty/Download/Skills.csv"
+echo "or"
+echo "Skills.csv"
+read SKI
+csv2json $SKI > output/Skills.json
 
 node first.js
 node json2latex.js > output/resume.tex

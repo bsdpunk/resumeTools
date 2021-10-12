@@ -1,0 +1,579 @@
+Endorsement Date,Skill Name,Endorsee First Name,Endorsee Last Name,Endorsement Status
+2019/07/30 22:46:11 UTC,Ruby on Rails,Brandon,Goodman,ACCEPTED
+2019/07/30 22:46:04 UTC,Ruby,Brandon,Goodman,ACCEPTED
+2019/07/30 22:45:42 UTC,HTML,Brandon,Goodman,ACCEPTED
+2017/04/04 19:14:08 UTC,Strategic Planning,Gary,Tierney,ACCEPTED
+2017/04/04 19:14:07 UTC,C,Gary,Tierney,ACCEPTED
+2017/04/04 19:14:06 UTC,Research,Gary,Tierney,ACCEPTED
+2017/04/04 19:14:05 UTC,C++,Gary,Tierney,ACCEPTED
+2017/04/04 19:14:05 UTC,PHP,Gary,Tierney,ACCEPTED
+2017/04/04 19:13:58 UTC,Linux System Administration,Gary,Tierney,ACCEPTED
+2017/04/04 19:13:56 UTC,Java,Gary,Tierney,ACCEPTED
+2017/01/27 00:44:11 UTC,Networking,Teri,Salisbury,ACCEPTED
+2017/01/27 00:44:10 UTC,Software Development,Teri,Salisbury,ACCEPTED
+2017/01/27 00:44:09 UTC,MySQL,Teri,Salisbury,ACCEPTED
+2017/01/27 00:44:08 UTC,jQuery,Pavel,Nichoski,ACCEPTED
+2017/01/27 00:43:58 UTC,Linux,Wes,Henderson,ACCEPTED
+2017/01/27 00:43:57 UTC,Windows Server,Wes,Henderson,ACCEPTED
+2017/01/27 00:43:56 UTC,System Administration,Wes,Henderson,ACCEPTED
+2017/01/27 00:43:54 UTC,Apache,Jad,Wauthier,PENDING
+2017/01/27 00:43:51 UTC,HTML,Charlie,McMackin,PENDING
+2017/01/27 00:43:50 UTC,Microsoft Office,Cia,Hang,ACCEPTED
+2017/01/27 00:43:49 UTC,Microsoft SQL Server,Cia,Hang,ACCEPTED
+2017/01/27 00:43:47 UTC,Network Administration,Cia,Hang,ACCEPTED
+2017/01/03 21:28:03 UTC,Team Building,Caitlin,Gibson,ACCEPTED
+2017/01/03 21:28:03 UTC,Training,Caitlin,Gibson,ACCEPTED
+2017/01/03 21:28:03 UTC,Human Resources Information Systems (HRIS),Caitlin,Gibson,ACCEPTED
+2017/01/03 21:28:03 UTC,Outsourcing,Caitlin,Gibson,ACCEPTED
+2017/01/03 16:38:43 UTC,Inventory Control,Joseph,Martin,ACCEPTED
+2017/01/03 16:38:32 UTC,Inventory Management,Joseph,Martin,ACCEPTED
+2017/01/03 16:37:36 UTC,Web Design,Ned,Horton,ACCEPTED
+2017/01/03 16:36:51 UTC,Online Marketing,Chris,Work,ACCEPTED
+2017/01/03 16:36:46 UTC,Social Media Marketing,Chris,Work,ACCEPTED
+2017/01/03 16:36:42 UTC,Telecommunications,Clay,Webster,PENDING
+2017/01/03 16:36:40 UTC,Team Building,Zach,Kimbrough,ACCEPTED
+2017/01/03 16:36:37 UTC,Student Affairs,Donna,Womack,ACCEPTED
+2017/01/03 16:36:35 UTC,Customer Relationship Management (CRM),Zach,Kimbrough,ACCEPTED
+2017/01/03 16:36:34 UTC,Customer Satisfaction,Zach,Kimbrough,ACCEPTED
+2017/01/03 16:36:32 UTC,Camera,David,Shamban,PENDING
+2017/01/03 16:36:30 UTC,Technical Support,Andy,Spivey,ACCEPTED
+2017/01/03 16:36:15 UTC,Copywriting,Nicole,Koestel ,ACCEPTED
+2017/01/03 16:36:09 UTC,Customer Satisfaction,Kristy,Jones Clay,ACCEPTED
+2017/01/03 16:36:07 UTC,Nagios,Nina,Limmer,ACCEPTED
+2017/01/03 16:36:05 UTC,Visual Studio,Ben,Tidman,ACCEPTED
+2017/01/03 16:36:04 UTC,Subversion,Ben,Tidman,ACCEPTED
+2017/01/03 16:36:02 UTC,Business Process Improvement,Gordon,Meyers,PENDING
+2017/01/03 16:35:59 UTC,Bash,Nina,Limmer,ACCEPTED
+2017/01/03 16:35:57 UTC,Linux System Administration,Dustin,Potter,ACCEPTED
+2017/01/03 16:35:37 UTC,Microsoft Outlook,Caitlin,Gibson,ACCEPTED
+2017/01/03 16:35:36 UTC,Business Process Improvement,Caitlin,Gibson,ACCEPTED
+2017/01/03 16:35:34 UTC,Contact Centers,Caitlin,Gibson,ACCEPTED
+2017/01/03 16:35:33 UTC,Amazon Web Services (AWS),Jim,Porter,ACCEPTED
+2017/01/03 16:35:31 UTC,SharePoint,Nicholas,West,ACCEPTED
+2017/01/03 16:35:30 UTC,Inventory Management,Nicholas,West,PENDING
+2017/01/03 16:35:27 UTC,Cloud Computing,Jonathan,Dupont,ACCEPTED
+2017/01/03 16:35:27 UTC,Virtualization,Josh,Catana,PENDING
+2017/01/03 16:35:25 UTC,Electronic Data Interchange (EDI),Nicholas,West,PENDING
+2017/01/03 16:35:05 UTC,SQL,Teri,Salisbury,ACCEPTED
+2017/01/03 16:35:00 UTC,HTML,Teri,Salisbury,ACCEPTED
+2017/01/03 16:34:59 UTC,JavaScript,Teri,Salisbury,ACCEPTED
+2017/01/03 16:34:40 UTC,Vector Illustration,Shayne,Trosdahl,ACCEPTED
+2017/01/03 16:34:36 UTC,SQL,Ben,Neely,ACCEPTED
+2017/01/03 16:34:31 UTC,Web Development,Ned,Horton,ACCEPTED
+2017/01/03 16:34:29 UTC,Microsoft Office,Ben,Neely,ACCEPTED
+2017/01/03 16:34:28 UTC,Troubleshooting,Ben,Neely,ACCEPTED
+2017/01/03 16:34:26 UTC,WordPress,Ned,Horton,ACCEPTED
+2017/01/03 16:34:24 UTC,Mac,Shayne,Trosdahl,ACCEPTED
+2017/01/03 16:34:17 UTC,Windows,Esa,Kesti,ACCEPTED
+2017/01/03 16:34:15 UTC,HTML,David,Stewart,ACCEPTED
+2017/01/03 16:33:55 UTC,Web Development,Chris,Work,ACCEPTED
+2017/01/03 16:33:43 UTC,Troubleshooting,Micah,Grooms,ACCEPTED
+2017/01/03 16:33:42 UTC,MySQL,Micah,Grooms,ACCEPTED
+2017/01/03 16:33:40 UTC,Ubuntu,Wes,Henderson,ACCEPTED
+2017/01/03 16:33:39 UTC,CentOS,Micah,Grooms,ACCEPTED
+2017/01/03 16:33:37 UTC,Active Directory,Wes,Henderson,ACCEPTED
+2017/01/03 16:33:36 UTC,Troubleshooting,Wes,Henderson,ACCEPTED
+2017/01/03 16:33:32 UTC,HTML,Jason,Clark,ACCEPTED
+2017/01/03 16:33:31 UTC,Microsoft Office,Justin,Rogers,PENDING
+2017/01/03 16:33:29 UTC,Windows,Jason,Clark,ACCEPTED
+2017/01/03 16:33:27 UTC,Software Development,Andy,Spivey,PENDING
+2017/01/03 16:33:25 UTC,Microsoft SQL Server,Jason,Clark,ACCEPTED
+2017/01/03 16:33:22 UTC,Microsoft SQL Server,Justin,Rogers,PENDING
+2017/01/03 16:33:16 UTC,XML,Pavel,Nichoski,PENDING
+2017/01/03 16:33:13 UTC,Python,Pavel,Nichoski,ACCEPTED
+2017/01/03 16:33:12 UTC,Servers,Kevin,Eldridge,ACCEPTED
+2017/01/03 16:33:08 UTC,System Administration,Nina,Limmer,ACCEPTED
+2017/01/03 16:33:07 UTC,HTML,Jen,Sears Moore,ACCEPTED
+2017/01/03 16:33:06 UTC,Databases,Jen,Sears Moore,ACCEPTED
+2017/01/03 16:33:05 UTC,JavaScript,Jen,Sears Moore,ACCEPTED
+2017/01/03 16:33:04 UTC,Cascading Style Sheets (CSS),Charlie,McMackin,PENDING
+2017/01/03 16:33:03 UTC,SQL,Charlie,McMackin,PENDING
+2017/01/03 16:33:03 UTC,WordPress,Charlie,McMackin,PENDING
+2017/01/03 16:33:02 UTC,Software Development,Dustin,Potter,ACCEPTED
+2017/01/03 16:33:01 UTC,jQuery,Dustin,Potter,ACCEPTED
+2017/01/03 16:32:54 UTC,jQuery,Jim,Porter,ACCEPTED
+2017/01/03 16:32:53 UTC,Programming,Jim,Porter,ACCEPTED
+2017/01/03 16:32:53 UTC,Microsoft Exchange,Cia,Hang,ACCEPTED
+2017/01/03 16:32:52 UTC,Active Directory,Cia,Hang,ACCEPTED
+2017/01/03 16:32:51 UTC,Windows Server,Cia,Hang,ACCEPTED
+2017/01/03 16:32:49 UTC,SQL,Josh,Catana,ACCEPTED
+2017/01/03 16:32:48 UTC,WordPress,Shayne,Trosdahl,ACCEPTED
+2016/10/03 05:44:58 UTC,Windows,Kevin,Eldridge,ACCEPTED
+2016/10/03 05:44:53 UTC,WordPress,Steven,St. Clair,ACCEPTED
+2016/10/03 05:44:47 UTC,Cascading Style Sheets (CSS),Pavel,Nichoski,PENDING
+2016/10/03 05:44:40 UTC,jQuery,Ben,Tidman,ACCEPTED
+2016/10/03 04:58:10 UTC,Social Media,Rebecca,Lopez Kriss,ACCEPTED
+2016/10/03 04:58:03 UTC,MySQL,Charlie,McMackin,PENDING
+2016/10/03 04:58:00 UTC,jQuery,Jen,Sears Moore,ACCEPTED
+2016/10/03 04:57:57 UTC,Active Directory,Nina,Limmer,ACCEPTED
+2016/10/03 04:57:37 UTC,Web Development,Dustin,Potter,ACCEPTED
+2016/10/03 04:57:35 UTC,HTML,Oleg,Dubas,ACCEPTED
+2016/10/03 04:57:34 UTC,Web Development,Joshua,Gourneau,ACCEPTED
+2016/10/03 04:57:32 UTC,XML,Jim,Porter,ACCEPTED
+2016/10/03 04:57:30 UTC,Linux,Cia,Hang,ACCEPTED
+2016/10/03 04:57:28 UTC,Networking,Nicholas,West,PENDING
+2016/10/03 04:57:27 UTC,Perl,Josh,Catana,ACCEPTED
+2016/10/03 04:57:24 UTC,HTML,Shayne,Trosdahl,ACCEPTED
+2016/07/19 16:41:36 UTC,JavaScript,Dustin,Potter,ACCEPTED
+2016/07/19 16:41:35 UTC,Art Direction,Shayne,Trosdahl,ACCEPTED
+2016/07/19 16:41:33 UTC,Continuous Integration,Dustin,Potter,ACCEPTED
+2016/07/19 16:41:32 UTC,Unit Testing,Dustin,Potter,ACCEPTED
+2016/07/19 16:41:30 UTC,Business Process Improvement,Jonathan,Dupont,ACCEPTED
+2016/07/19 16:41:29 UTC,Art,Shayne,Trosdahl,ACCEPTED
+2016/07/19 16:41:28 UTC,Web Design,Shayne,Trosdahl,ACCEPTED
+2016/07/19 16:41:21 UTC,Bash,Micah,Grooms,ACCEPTED
+2016/07/19 16:41:21 UTC,HTML5,Micah,Grooms,ACCEPTED
+2016/07/19 16:41:21 UTC,LAMP,Micah,Grooms,ACCEPTED
+2016/07/19 16:41:21 UTC,Linux,Micah,Grooms,ACCEPTED
+2016/07/19 16:41:21 UTC,XHTML,Micah,Grooms,ACCEPTED
+2016/06/16 17:10:59 UTC,Adobe Illustrator,Shayne,Trosdahl,ACCEPTED
+2016/06/16 17:10:59 UTC,Adobe Photoshop,Shayne,Trosdahl,ACCEPTED
+2016/06/16 17:10:59 UTC,Cascading Style Sheets (CSS),Shayne,Trosdahl,ACCEPTED
+2016/06/16 17:10:59 UTC,Illustration,Shayne,Trosdahl,ACCEPTED
+2016/06/16 17:10:59 UTC,Mobile Applications,Shayne,Trosdahl,ACCEPTED
+2016/06/13 20:50:58 UTC,Public Speaking,Jen,Sears Moore,ACCEPTED
+2016/06/13 20:50:55 UTC,System Administration,Donna,Womack,ACCEPTED
+2016/06/13 20:50:49 UTC,Shell Scripting,Dustin,Potter,ACCEPTED
+2016/06/13 20:50:46 UTC,HTML,Dustin,Potter,ACCEPTED
+2016/06/13 20:50:45 UTC,JavaScript,Jim,Porter,ACCEPTED
+2016/06/13 20:50:43 UTC,Git,Charlie,McMackin,ACCEPTED
+2016/06/13 20:50:40 UTC,Microsoft SQL Server,Nicholas,West,PENDING
+2016/06/13 20:50:36 UTC,Employee Relations,Caitlin,Gibson,ACCEPTED
+2016/06/13 20:49:08 UTC,Social Media,Jen,Sears Moore,ACCEPTED
+2016/06/13 20:49:07 UTC,Posters,Shayne,Trosdahl,ACCEPTED
+2016/06/13 20:49:05 UTC,Advertising,Shayne,Trosdahl,ACCEPTED
+2016/06/13 20:49:04 UTC,HTML5,Shayne,Trosdahl,ACCEPTED
+2016/06/13 20:49:02 UTC,CSS,Jim,Porter,ACCEPTED
+2016/06/13 20:48:59 UTC,JavaScript,Joshua,Gourneau,ACCEPTED
+2016/06/13 20:48:59 UTC,MySQL,Joshua,Gourneau,ACCEPTED
+2016/06/13 20:48:59 UTC,PHP,Joshua,Gourneau,ACCEPTED
+2016/06/13 20:48:59 UTC,Subversion,Joshua,Gourneau,ACCEPTED
+2016/06/13 20:48:59 UTC,jQuery,Joshua,Gourneau,ACCEPTED
+2016/06/05 20:43:05 UTC,Web Design,Steven,St. Clair,ACCEPTED
+2016/06/05 20:43:03 UTC,SQL,Justin,Rogers,PENDING
+2016/06/05 20:42:54 UTC,Inventory Management,Zach,Kimbrough,ACCEPTED
+2016/06/05 20:42:42 UTC,Digital Media,David,Shamban,PENDING
+2016/06/05 20:42:41 UTC,XML,Ben,Tidman,ACCEPTED
+2016/06/05 20:42:40 UTC,Policy Analysis,Rebecca,Lopez Kriss,ACCEPTED
+2016/06/05 20:42:38 UTC,XHTML,Oleg,Dubas,ACCEPTED
+2016/06/05 20:42:29 UTC,ASP.NET,Dustin,Potter,ACCEPTED
+2016/06/05 20:42:23 UTC,Linux,Jim,Porter,ACCEPTED
+2016/06/05 20:42:19 UTC,Digital Marketing,Nicole,Koestel ,ACCEPTED
+2016/06/05 20:41:38 UTC,SQL,Jen,Sears Moore,ACCEPTED
+2016/06/05 20:41:21 UTC,Troubleshooting,Gordon,Meyers,PENDING
+2016/06/05 20:41:19 UTC,Event Planning,"dave ""cully""",culbreath,ACCEPTED
+2016/06/05 20:41:12 UTC,CSS,Jen,Sears Moore,ACCEPTED
+2016/06/05 20:41:05 UTC,Databases,Jason,Clark,ACCEPTED
+2016/06/05 20:41:01 UTC,Agile Methodologies,Andy,Spivey,ACCEPTED
+2016/06/05 20:40:54 UTC,Web Development,Jim,Porter,ACCEPTED
+2016/06/05 20:40:48 UTC,Python,Joshua,Gourneau,ACCEPTED
+2016/06/05 20:40:46 UTC,PPC,Chris,Work,ACCEPTED
+2016/06/05 20:40:45 UTC,Linux,Oleg,Dubas,ACCEPTED
+2016/06/05 20:40:42 UTC,Disaster Recovery,Nicholas,West,PENDING
+2016/06/05 20:40:40 UTC,Agile Methodologies,Jason,Clark,ACCEPTED
+2016/06/05 20:40:38 UTC,IIS,Dustin,Potter,ACCEPTED
+2016/06/05 20:40:37 UTC,Online Advertising,Charley,Campbell,PENDING
+2016/06/05 20:40:35 UTC,Social Media,David,Shamban,PENDING
+2016/06/05 20:40:34 UTC,Git,Joshua,Gourneau,ACCEPTED
+2016/06/05 20:40:31 UTC,User Experience Design,Shayne,Trosdahl,ACCEPTED
+2016/06/05 20:40:23 UTC,Leadership,David,Kline,ACCEPTED
+2016/06/05 20:40:23 UTC,VPN,David,Kline,ACCEPTED
+2016/06/05 20:23:07 UTC,Data Center,David,Kline,ACCEPTED
+2016/06/05 20:23:05 UTC,Programming,Jad,Wauthier,PENDING
+2016/06/05 20:22:55 UTC,Advertising,David,Shamban,PENDING
+2016/06/05 20:22:48 UTC,Servers,Wes,Henderson,ACCEPTED
+2016/06/05 20:22:46 UTC,Microsoft Office,Jonathan,Dupont,ACCEPTED
+2016/06/05 20:22:38 UTC,IT Service Management,Kevin,Eldridge,ACCEPTED
+2016/06/05 20:22:36 UTC,Software Development,Jim,Porter,ACCEPTED
+2016/06/05 20:22:35 UTC,Management,David,Stewart,ACCEPTED
+2016/06/05 20:22:31 UTC,Active Directory,Nicholas,West,PENDING
+2016/06/05 20:22:27 UTC,Illustrator,Jason,Monaghan,PENDING
+2016/06/05 20:22:26 UTC,Consulting,Josh,Catana,ACCEPTED
+2016/06/05 20:22:25 UTC,Logo Design,Shayne,Trosdahl,ACCEPTED
+2016/06/05 20:21:52 UTC,Graphics,Shayne,Trosdahl,ACCEPTED
+2016/06/05 20:21:50 UTC,Java,Charlie,McMackin,PENDING
+2016/06/05 20:21:46 UTC,.NET,Dustin,Potter,ACCEPTED
+2016/06/05 20:21:44 UTC,Solaris,Gordon,Meyers,ACCEPTED
+2016/06/05 20:21:42 UTC,Git,Ben,Tidman,ACCEPTED
+2016/06/05 20:21:39 UTC,Call Centers,Caitlin,Gibson,ACCEPTED
+2016/06/05 20:21:22 UTC,HRIS,Caitlin,Gibson,ACCEPTED
+2016/06/05 20:21:20 UTC,MySQL,Josh,Catana,ACCEPTED
+2016/06/05 20:21:17 UTC,Microsoft Office,Kristy,Jones Clay,ACCEPTED
+2016/06/05 20:21:09 UTC,Linux,Nina,Limmer,ACCEPTED
+2016/06/05 20:21:09 UTC,MySQL,Nina,Limmer,ACCEPTED
+2016/06/05 20:21:09 UTC,Networking,Nina,Limmer,ACCEPTED
+2016/06/05 20:21:09 UTC,Servers,Nina,Limmer,ACCEPTED
+2016/06/05 20:21:09 UTC,Subversion,Nina,Limmer,ACCEPTED
+2016/05/16 19:23:55 UTC,Active Directory,Josh,Catana,ACCEPTED
+2016/05/16 19:23:53 UTC,Microsoft SQL Server,Shean,Massey,PENDING
+2016/05/16 19:23:45 UTC,Adobe Creative Suite,Shayne,Trosdahl,ACCEPTED
+2016/05/16 19:23:45 UTC,CSS,Shayne,Trosdahl,ACCEPTED
+2016/05/16 19:23:45 UTC,Graphic Design,Shayne,Trosdahl,ACCEPTED
+2016/05/16 19:23:45 UTC,Illustrator,Shayne,Trosdahl,ACCEPTED
+2016/05/16 19:23:45 UTC,Photoshop,Shayne,Trosdahl,ACCEPTED
+2016/01/14 14:21:29 UTC,TCP/IP,David,Kline,ACCEPTED
+2016/01/14 14:16:30 UTC,New Media,Steven,Roth,ACCEPTED
+2016/01/14 14:16:26 UTC,Audio Engineering,Steven,Roth,ACCEPTED
+2016/01/14 14:16:24 UTC,Databases,Josh,Catana,ACCEPTED
+2016/01/14 14:16:22 UTC,Public Speaking,"dave ""cully""",culbreath,ACCEPTED
+2015/12/20 11:01:43 UTC,Analysis,Jen,Sears Moore,ACCEPTED
+2015/12/20 11:01:34 UTC,SQL,Nicholas,West,PENDING
+2015/12/20 11:01:31 UTC,Network Administration,Jonathan,Dupont,ACCEPTED
+2015/12/20 11:01:28 UTC,JavaScript,Charlie,McMackin,ACCEPTED
+2015/12/20 11:01:24 UTC,HTML,Shean,Massey,ACCEPTED
+2015/12/20 11:01:16 UTC,Windows 7,Jonathan,Dupont,ACCEPTED
+2015/12/20 11:01:13 UTC,Leadership,Heather,Neisen,ACCEPTED
+2015/12/20 11:01:11 UTC,Sourcing,Jamie,Flynn,ACCEPTED
+2015/12/20 11:01:09 UTC,Microsoft Office,Andy,Spivey,ACCEPTED
+2015/12/20 11:01:07 UTC,Process Improvement,Caitlin,Gibson,ACCEPTED
+2015/12/20 11:01:05 UTC,Graphics,Jason,Monaghan,PENDING
+2015/12/20 11:01:01 UTC,Advertising,Steven,Roth,ACCEPTED
+2015/12/20 11:01:01 UTC,Composition,Steven,Roth,ACCEPTED
+2015/12/20 11:01:01 UTC,Original Music,Steven,Roth,ACCEPTED
+2015/12/20 11:01:01 UTC,Songwriting,Steven,Roth,ACCEPTED
+2015/12/20 11:01:01 UTC,Rock Music,Steven,Roth,ACCEPTED
+2015/12/20 11:00:51 UTC,Digital Media,Nicole,Koestel ,ACCEPTED
+2015/12/20 11:00:46 UTC,Microsoft Office,Gordon,Meyers,ACCEPTED
+2015/12/20 11:00:43 UTC,Networking,Cia,Hang,ACCEPTED
+2015/12/20 11:00:41 UTC,Networking,Ryan,Moran,ACCEPTED
+2015/12/20 11:00:38 UTC,CSS,Ryan,Moran,ACCEPTED
+2015/12/20 11:00:37 UTC,Network Administration,David,Kline,ACCEPTED
+2015/12/20 11:00:35 UTC,Testing,Andy,Spivey,ACCEPTED
+2015/12/20 11:00:30 UTC,Web Development,Shean,Massey,ACCEPTED
+2015/12/20 11:00:28 UTC,Public Speaking,Rebecca,Lopez Kriss,ACCEPTED
+2015/12/20 11:00:24 UTC,Data Entry,Kristy,Jones Clay,ACCEPTED
+2015/12/20 11:00:24 UTC,Marketing,Kristy,Jones Clay,ACCEPTED
+2015/12/20 11:00:24 UTC,Merchandising,Kristy,Jones Clay,ACCEPTED
+2015/12/20 11:00:24 UTC,Retail,Kristy,Jones Clay,ACCEPTED
+2015/12/20 11:00:24 UTC,Sales Management,Kristy,Jones Clay,ACCEPTED
+2015/12/20 11:00:19 UTC,Disaster Recovery,Gordon,Meyers,ACCEPTED
+2015/12/20 11:00:17 UTC,Music Publishing,Steven,Roth,ACCEPTED
+2015/12/20 11:00:06 UTC,System Administration,Jonathan,Dupont,ACCEPTED
+2015/12/20 11:00:03 UTC,Scrum,Ben,Tidman,ACCEPTED
+2015/08/12 02:02:23 UTC,Sound Design,Steven,Roth,ACCEPTED
+2015/08/12 02:02:22 UTC,SQL,Shean,Massey,ACCEPTED
+2015/08/12 02:02:18 UTC,Sound,Steven,Roth,ACCEPTED
+2015/08/12 02:02:17 UTC,Performance Management,Caitlin,Gibson,ACCEPTED
+2015/08/12 02:02:16 UTC,Microsoft Office,Stormie,McGee,ACCEPTED
+2015/08/12 02:02:15 UTC,SQL,Gordon,Meyers,PENDING
+2015/08/12 02:02:13 UTC,Bands,Steven,Roth,ACCEPTED
+2015/08/12 02:02:11 UTC,SEO,Chris,Work,ACCEPTED
+2015/08/12 02:02:10 UTC,AJAX,Shean,Massey,ACCEPTED
+2015/07/23 00:49:16 UTC,Customer Service,Becka,Pratt,ACCEPTED
+2015/07/23 00:49:16 UTC,Employee Training,Becka,Pratt,ACCEPTED
+2015/07/23 00:49:16 UTC,Leadership,Becka,Pratt,ACCEPTED
+2015/07/23 00:49:16 UTC,Recruiting,Becka,Pratt,ACCEPTED
+2015/07/23 00:49:16 UTC,Team Building,Becka,Pratt,ACCEPTED
+2015/07/22 19:37:31 UTC,Social Media Marketing,David,Shamban,PENDING
+2015/07/22 19:37:29 UTC,C#,Ben,Tidman,ACCEPTED
+2015/07/22 19:36:44 UTC,Consulting,Scott,Gordon,ACCEPTED
+2015/07/22 19:36:40 UTC,C++,Dustin,Potter,ACCEPTED
+2015/07/22 19:36:38 UTC,Leadership,"dave ""cully""",culbreath,ACCEPTED
+2015/07/22 19:36:32 UTC,Microsoft Excel,Kristy,Jones Clay,ACCEPTED
+2015/07/22 19:36:30 UTC,Microsoft Excel,Zach,Kimbrough,ACCEPTED
+2015/07/22 19:36:27 UTC,Curriculum Development,Donna,Womack,ACCEPTED
+2015/07/22 19:36:25 UTC,C++,Pavel,Nichoski,ACCEPTED
+2015/07/22 19:36:23 UTC,Online Marketing,Dave,Delaney ☕,ACCEPTED
+2015/07/22 19:36:17 UTC,Inventory Control,Nicholas,West,ACCEPTED
+2015/07/22 19:36:15 UTC,Customer Service,Jen,Sears Moore,ACCEPTED
+2015/07/22 19:36:14 UTC,Software Installation,David,Kline,ACCEPTED
+2015/07/22 19:36:10 UTC,Inventory Management,Stormie,McGee,ACCEPTED
+2015/07/22 19:36:06 UTC,Strategy,Rebecca,Lopez Kriss,ACCEPTED
+2015/07/22 19:36:04 UTC,Cloud Computing,Josh,Catana,ACCEPTED
+2015/07/22 19:35:55 UTC,Strategic Planning,Stormie,McGee,ACCEPTED
+2015/07/22 19:35:54 UTC,Advertising,Jason,Monaghan,PENDING
+2015/07/22 19:35:53 UTC,Microsoft SQL Server,Josh,Catana,ACCEPTED
+2015/07/22 19:35:47 UTC,Vendor Management,Caitlin,Gibson,ACCEPTED
+2015/07/22 19:35:41 UTC,Data Center,Jonathan,Dupont,ACCEPTED
+2015/07/22 19:35:41 UTC,Disaster Recovery,Jonathan,Dupont,ACCEPTED
+2015/07/22 19:35:41 UTC,IT Management,Jonathan,Dupont,ACCEPTED
+2015/07/22 19:35:41 UTC,Troubleshooting,Jonathan,Dupont,ACCEPTED
+2015/07/22 19:35:41 UTC,Windows Server,Jonathan,Dupont,ACCEPTED
+2015/07/22 19:34:56 UTC,Social Networking,"dave ""cully""",culbreath,ACCEPTED
+2015/07/22 19:34:55 UTC,Windows,Ryan,Moran,ACCEPTED
+2015/07/22 19:34:51 UTC,MySQL,Jad,Wauthier,PENDING
+2015/07/22 19:34:51 UTC,PHP,Jad,Wauthier,PENDING
+2015/07/22 19:34:51 UTC,SQL,Jad,Wauthier,PENDING
+2015/07/22 19:34:51 UTC,Software Development,Jad,Wauthier,PENDING
+2015/07/22 19:34:51 UTC,XML,Jad,Wauthier,PENDING
+2015/07/22 15:55:32 UTC,Web Development,Tony,Person,ACCEPTED
+2015/07/22 15:55:29 UTC,CRM,Jen,Sears Moore,ACCEPTED
+2015/07/22 15:55:27 UTC,Video Production,David,Shamban,PENDING
+2015/07/22 15:55:21 UTC,JavaScript,Ben,Tidman,ACCEPTED
+2015/07/22 15:55:16 UTC,JavaScript,Pavel,Nichoski,ACCEPTED
+2015/07/22 15:55:14 UTC,Event Planning,Kristy,Jones Clay,ACCEPTED
+2015/07/22 15:55:12 UTC,Java,Dustin,Potter,ACCEPTED
+2015/07/22 15:55:11 UTC,WordPress,Jim,Porter,ACCEPTED
+2015/07/22 15:55:05 UTC,CSS,Steven,St. Clair,ACCEPTED
+2015/07/22 15:54:58 UTC,Adobe Creative Suite,Jason,Monaghan,ACCEPTED
+2015/07/22 15:54:52 UTC,Employee Engagement,Caitlin,Gibson,ACCEPTED
+2015/07/22 15:54:40 UTC,Strategic Planning,Rebecca,Lopez Kriss,ACCEPTED
+2015/07/22 15:54:37 UTC,Training,Scott,Gordon,ACCEPTED
+2015/07/22 15:54:33 UTC,Process Improvement,Gordon,Meyers,ACCEPTED
+2015/07/22 15:54:29 UTC,Databases,Oleg,Dubas,ACCEPTED
+2015/07/22 15:54:15 UTC,SQL,Ben,Tidman,ACCEPTED
+2015/07/22 15:54:04 UTC,Process Improvement,Jen,Sears Moore,ACCEPTED
+2015/07/22 15:53:58 UTC,Recording,Steven,Roth,ACCEPTED
+2015/07/22 15:53:56 UTC,SQL,Andy,Spivey,PENDING
+2015/07/22 15:53:43 UTC,WAN,David,Kline,ACCEPTED
+2015/07/22 15:53:39 UTC,Disaster Recovery,Andy,Spivey,ACCEPTED
+2015/07/22 15:53:37 UTC,Java,Pavel,Nichoski,ACCEPTED
+2015/07/22 15:53:36 UTC,Linux,Jonathan,Dupont,ACCEPTED
+2015/07/22 15:53:31 UTC,Disaster Recovery,Josh,Catana,ACCEPTED
+2015/07/22 15:53:30 UTC,Concept Development,Nicole,Koestel ,ACCEPTED
+2015/07/22 15:53:28 UTC,Process Improvement,Nicholas,West,PENDING
+2015/07/22 15:53:26 UTC,Guitar,Steven,Roth,ACCEPTED
+2015/07/22 15:53:25 UTC,Songs,Steven,Roth,ACCEPTED
+2015/07/22 15:53:23 UTC,SDLC,Ryan,Moran,ACCEPTED
+2015/07/22 15:53:21 UTC,Video,David,Shamban,PENDING
+2015/07/22 15:53:18 UTC,Apache,Shean,Massey,ACCEPTED
+2015/07/22 15:53:18 UTC,LAMP,Shean,Massey,ACCEPTED
+2015/07/22 15:53:18 UTC,JavaScript,Shean,Massey,ACCEPTED
+2015/07/22 15:53:18 UTC,Python,Shean,Massey,ACCEPTED
+2015/07/22 15:53:18 UTC,XML,Shean,Massey,ACCEPTED
+2015/06/16 06:30:18 UTC,Entertainment,Steven,Roth,ACCEPTED
+2015/06/16 06:30:15 UTC,OOP,Ben,Tidman,ACCEPTED
+2015/06/16 06:30:14 UTC,Process Improvement,Jonathan,Dupont,ACCEPTED
+2015/06/16 06:30:11 UTC,Linux,Shean,Massey,ACCEPTED
+2015/06/16 06:30:09 UTC,Technical Support,David,Kline,ACCEPTED
+2015/06/16 06:30:08 UTC,Television,Steven,Roth,ACCEPTED
+2015/06/16 06:30:08 UTC,Video Editing,Steven,Roth,ACCEPTED
+2015/06/16 06:30:05 UTC,Social Media,David,Stewart,ACCEPTED
+2015/06/16 06:30:02 UTC,Project Management,Gordon,Meyers,ACCEPTED
+2015/06/16 06:29:59 UTC,VMware,Andy,Spivey,ACCEPTED
+2015/06/15 22:30:35 UTC,Linux System Administration,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,PHP,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,Customer Service,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,Leadership,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,Microsoft Excel,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,Microsoft Office,Ryan,Moran,ACCEPTED
+2015/06/15 22:30:35 UTC,Sales,Ryan,Moran,ACCEPTED
+2014/12/01 16:20:15 UTC,Teaching,Donna,Womack,ACCEPTED
+2014/12/01 16:20:13 UTC,JavaScript,Jason,Clark,ACCEPTED
+2014/12/01 16:20:10 UTC,ASP.NET MVC,Ben,Tidman,ACCEPTED
+2014/12/01 16:20:09 UTC,Network Security,David,Kline,ACCEPTED
+2014/12/01 16:19:24 UTC,Customer Service,Zach,Kimbrough,ACCEPTED
+2014/12/01 16:19:21 UTC,HTML,Pavel,Nichoski,ACCEPTED
+2014/12/01 16:19:20 UTC,Microsoft Office,Caitlin,Gibson,ACCEPTED
+2014/12/01 16:18:55 UTC,User Experience,Steven,St. Clair,ACCEPTED
+2014/12/01 16:18:47 UTC,Switches,David,Kline,ACCEPTED
+2014/12/01 16:18:41 UTC,Nonprofits,Rebecca,Lopez Kriss,ACCEPTED
+2014/12/01 16:18:40 UTC,Higher Education,Donna,Womack,ACCEPTED
+2014/12/01 16:18:30 UTC,System Administration,Kevin,Eldridge,ACCEPTED
+2014/12/01 16:18:26 UTC,Cisco Technologies,David,Kline,ACCEPTED
+2014/12/01 16:18:13 UTC,SQL,Dustin,Potter,ACCEPTED
+2014/12/01 16:18:12 UTC,Project Management,Justin,Rogers,PENDING
+2014/12/01 16:18:10 UTC,Video Editing,David,Shamban,PENDING
+2014/12/01 16:18:10 UTC,Entrepreneurship,David,Stewart,ACCEPTED
+2014/12/01 16:17:54 UTC,Social Media Marketing,"dave ""cully""",culbreath,ACCEPTED
+2014/12/01 16:17:52 UTC,Program Management,Gordon,Meyers,PENDING
+2014/12/01 16:17:51 UTC,Leadership,Rebecca,Lopez Kriss,ACCEPTED
+2014/12/01 16:17:31 UTC,Logo Design,Jason,Monaghan,ACCEPTED
+2014/12/01 16:17:29 UTC,Invoicing,Nicholas,West,ACCEPTED
+2014/12/01 16:17:27 UTC,Public Speaking,David,Stewart,ACCEPTED
+2014/12/01 16:17:20 UTC,Newsletters,Stormie,McGee,ACCEPTED
+2014/12/01 16:17:15 UTC,Linux,Josh,Catana,ACCEPTED
+2014/12/01 16:17:09 UTC,Microsoft SQL Server,Gordon,Meyers,ACCEPTED
+2014/12/01 16:16:57 UTC,Cloud Computing,Andy,Spivey,ACCEPTED
+2014/12/01 16:16:52 UTC,Enterprise Software,Andy,Spivey,ACCEPTED
+2014/12/01 16:16:51 UTC,Troubleshooting,Justin,Rogers,PENDING
+2014/12/01 16:16:49 UTC,Leadership,Caitlin,Gibson,ACCEPTED
+2014/12/01 16:16:47 UTC,Management,Ryan,Moran,ACCEPTED
+2014/12/01 16:16:46 UTC,Servers,Jonathan,Dupont,ACCEPTED
+2014/12/01 16:16:45 UTC,Project Management,Stormie,McGee,ACCEPTED
+2014/12/01 16:16:42 UTC,Editing,Stormie,McGee,ACCEPTED
+2014/12/01 16:16:42 UTC,Social Media,"dave ""cully""",culbreath,ACCEPTED
+2014/12/01 16:16:31 UTC,System Administration,Cia,Hang,ACCEPTED
+2014/12/01 16:16:25 UTC,InDesign,Jason,Monaghan,ACCEPTED
+2014/12/01 16:16:24 UTC,Graphic Design,Jason,Monaghan,ACCEPTED
+2014/12/01 16:16:20 UTC,Music Production,Steven,Roth,ACCEPTED
+2014/12/01 16:16:19 UTC,Web Services,Ben,Tidman,ACCEPTED
+2014/12/01 16:16:17 UTC,Troubleshooting,Josh,Catana,ACCEPTED
+2014/12/01 16:16:15 UTC,Customer Service,Kristy,Jones Clay,ACCEPTED
+2014/12/01 16:16:14 UTC,Illustrator,Nicole,Koestel ,ACCEPTED
+2014/12/01 16:16:12 UTC,JavaScript,Oleg,Dubas,ACCEPTED
+2014/12/01 16:16:07 UTC,PHP,Dustin,Potter,ACCEPTED
+2014/12/01 16:16:05 UTC,Microsoft Office,Nicholas,West,ACCEPTED
+2014/12/01 16:16:03 UTC,CSS,Shean,Massey,ACCEPTED
+2014/12/01 16:16:01 UTC,Project Management,Ryan,Moran,ACCEPTED
+2014/12/01 16:15:59 UTC,jQuery,Jonathan,Dupont,ACCEPTED
+2014/12/01 16:15:57 UTC,Software Development,Oleg,Dubas,ACCEPTED
+2014/12/01 16:15:56 UTC,VMware,Jonathan,Dupont,ACCEPTED
+2014/12/01 16:15:45 UTC,CSS,Oleg,Dubas,ACCEPTED
+2014/12/01 16:15:43 UTC,Web Applications,Ben,Tidman,ACCEPTED
+2014/12/01 16:15:40 UTC,Music Industry,Steven,Roth,ACCEPTED
+2014/07/01 21:02:49 UTC,Team Building,Justin,Rogers,PENDING
+2014/07/01 21:02:41 UTC,Networking,Kevin,Eldridge,ACCEPTED
+2014/07/01 21:02:35 UTC,Unix,Gordon,Meyers,PENDING
+2014/07/01 21:02:33 UTC,Networking,David,Kline,ACCEPTED
+2014/07/01 21:02:31 UTC,Perl,Dustin,Potter,ACCEPTED
+2014/07/01 21:02:28 UTC,VMware,Justin,Rogers,PENDING
+2014/07/01 21:02:25 UTC,Disaster Recovery,Cia,Hang,ACCEPTED
+2014/07/01 21:02:23 UTC,Temporary Placement,MacKenzie,"Emerson, SSAP",ACCEPTED
+2014/07/01 21:02:12 UTC,Software Documentation,Andy,Spivey,ACCEPTED
+2014/07/01 21:02:07 UTC,HTML,Ryan,Moran,ACCEPTED
+2014/07/01 21:02:02 UTC,Adobe Creative Suite,Nicole,Koestel ,ACCEPTED
+2014/07/01 21:02:00 UTC,Troubleshooting,Nicholas,West,ACCEPTED
+2014/07/01 21:01:58 UTC,Databases,Ben,Tidman,ACCEPTED
+2014/07/01 21:01:56 UTC,Broadcast,Steven,Roth,ACCEPTED
+2014/07/01 21:01:52 UTC,JavaScript,David,Stewart,ACCEPTED
+2014/07/01 21:01:52 UTC,Perl,David,Stewart,ACCEPTED
+2014/07/01 21:01:52 UTC,Software Development,David,Stewart,ACCEPTED
+2014/07/01 21:01:52 UTC,Web Development,David,Stewart,ACCEPTED
+2014/07/01 21:01:52 UTC,jQuery,David,Stewart,ACCEPTED
+2014/07/01 18:53:08 UTC,Microsoft SQL Server,Andy,Spivey,ACCEPTED
+2014/07/01 18:34:53 UTC,Media Relations,Rebecca,Lopez Kriss,ACCEPTED
+2014/07/01 18:34:40 UTC,PHP,Jim,Porter,ACCEPTED
+2014/07/01 18:34:31 UTC,Copywriting,Stormie,McGee,ACCEPTED
+2014/07/01 18:34:29 UTC,MySQL,Jim,Porter,ACCEPTED
+2014/07/01 18:34:27 UTC,Drupal,Jim,Porter,ACCEPTED
+2014/07/01 18:34:25 UTC,Final Cut Pro,Amelia,Adkins,ACCEPTED
+2014/07/01 18:34:17 UTC,Time Management,Kristy,Jones Clay,ACCEPTED
+2014/07/01 18:34:10 UTC,Executive Search,Scott,Gordon,ACCEPTED
+2014/07/01 18:32:45 UTC,Fraud,Jen,Sears Moore,ACCEPTED
+2014/07/01 18:32:43 UTC,Adobe Creative Suite,Stormie,McGee,ACCEPTED
+2014/07/01 18:32:34 UTC,Cisco Technologies,Josh,Catana,ACCEPTED
+2014/07/01 18:32:19 UTC,Leadership,Kristy,Jones Clay,ACCEPTED
+2014/07/01 18:32:14 UTC,Data Center,Kevin,Eldridge,ACCEPTED
+2014/07/01 18:31:30 UTC,Microsoft SQL Server,Ryan,Moran,ACCEPTED
+2014/07/01 18:31:26 UTC,Linux,Dustin,Potter,ACCEPTED
+2014/07/01 18:31:24 UTC,Microsoft Office,Jen,Sears Moore,ACCEPTED
+2014/07/01 18:31:22 UTC,Sales,Kristy,Jones Clay,ACCEPTED
+2014/07/01 18:30:10 UTC,Entrepreneurship,Rebecca,Lopez Kriss,ACCEPTED
+2014/07/01 18:30:07 UTC,Online Advertising,"dave ""cully""",culbreath,ACCEPTED
+2014/07/01 18:30:06 UTC,Windows Server,Josh,Catana,ACCEPTED
+2014/07/01 18:30:02 UTC,Management,Caitlin,Gibson,ACCEPTED
+2014/07/01 18:30:00 UTC,Branding & Identity,Jason,Monaghan,ACCEPTED
+2014/07/01 18:29:59 UTC,Programming,Ben,Tidman,ACCEPTED
+2014/07/01 18:29:51 UTC,Motion Graphics,David,Shamban,ACCEPTED
+2014/07/01 18:29:49 UTC,Databases,Jonathan,Dupont,ACCEPTED
+2014/07/01 18:29:44 UTC,Memcached,Shean,Massey,ACCEPTED
+2014/07/01 18:29:35 UTC,Data Analysis,Jen,Sears Moore,ACCEPTED
+2014/07/01 18:29:32 UTC,Branding & Identity,Nicole,Koestel ,ACCEPTED
+2014/07/01 18:29:30 UTC,Troubleshooting,David,Kline,ACCEPTED
+2014/07/01 18:29:26 UTC,Django,Pavel,Nichoski,ACCEPTED
+2014/07/01 18:29:22 UTC,Technical Support,Gordon,Meyers,PENDING
+2014/07/01 18:29:21 UTC,PHP,Shean,Massey,ACCEPTED
+2014/07/01 18:29:17 UTC,IIS,Andy,Spivey,ACCEPTED
+2014/07/01 18:29:12 UTC,Ruby,Dustin,Potter,ACCEPTED
+2014/07/01 18:20:07 UTC,InDesign,Nicole,Koestel ,ACCEPTED
+2014/07/01 18:20:04 UTC,Email Marketing,Stormie,McGee,ACCEPTED
+2014/07/01 18:20:01 UTC,Software Development,Jonathan,Dupont,ACCEPTED
+2014/07/01 18:19:53 UTC,Producing,Steven,Roth,ACCEPTED
+2014/07/01 18:19:51 UTC,Perl,Charlie,McMackin,ACCEPTED
+2014/07/01 18:19:49 UTC,REST,Oleg,Dubas,ACCEPTED
+2014/07/01 18:19:47 UTC,XML,Oleg,Dubas,ACCEPTED
+2014/07/01 18:19:42 UTC,Team Leadership,Donna,Womack,ACCEPTED
+2014/07/01 18:19:41 UTC,Concerts,Steven,Roth,ACCEPTED
+2014/07/01 18:19:38 UTC,Information Security,Gordon,Meyers,PENDING
+2014/07/01 18:19:35 UTC,Broadcast,David,Shamban,ACCEPTED
+2014/07/01 18:19:33 UTC,MySQL,Shean,Massey,ACCEPTED
+2014/07/01 18:19:31 UTC,Customer Service,Nicholas,West,ACCEPTED
+2014/07/01 18:19:29 UTC,Servers,Nicholas,West,ACCEPTED
+2014/07/01 18:19:27 UTC,Web Development,Oleg,Dubas,ACCEPTED
+2014/07/01 18:19:22 UTC,Git,David,Stewart,ACCEPTED
+2014/07/01 18:19:22 UTC,Ruby,David,Stewart,ACCEPTED
+2014/07/01 18:19:22 UTC,Linux,David,Stewart,ACCEPTED
+2014/07/01 18:19:22 UTC,MySQL,David,Stewart,ACCEPTED
+2014/07/01 18:19:22 UTC,Python,David,Stewart,ACCEPTED
+2014/03/14 06:28:03 UTC,Typography,Jason,Monaghan,ACCEPTED
+2014/03/14 06:28:00 UTC,Microsoft SQL Server,Kevin,Eldridge,ACCEPTED
+2014/03/14 06:27:38 UTC,Routers,David,Kline,ACCEPTED
+2014/03/14 06:27:30 UTC,Leadership,Donna,Womack,ACCEPTED
+2014/03/14 06:27:18 UTC,Photography,Caitlin,Gibson,ACCEPTED
+2014/03/14 06:27:05 UTC,Typography,Nicole,Koestel ,ACCEPTED
+2014/03/14 06:27:02 UTC,Security,Cia,Hang,ACCEPTED
+2014/03/14 06:26:57 UTC,Program Management,Donna,Womack,ACCEPTED
+2014/03/14 06:26:48 UTC,Blogging,Stormie,McGee,ACCEPTED
+2014/03/14 06:26:38 UTC,Technical Support,Cia,Hang,ACCEPTED
+2014/03/14 06:26:35 UTC,Firewalls,David,Kline,ACCEPTED
+2014/03/14 06:26:32 UTC,Bash,Pavel,Nichoski,ACCEPTED
+2014/03/14 06:26:27 UTC,Program Management,Josh,Catana,ACCEPTED
+2014/03/14 06:26:18 UTC,Recruiting,Scott,Gordon,ACCEPTED
+2014/03/14 06:26:08 UTC,Java,Ryan,Moran,ACCEPTED
+2014/03/14 06:26:06 UTC,Graphic Design,Nicole,Koestel ,ACCEPTED
+2014/03/14 06:25:59 UTC,Linux,Charlie,McMackin,ACCEPTED
+2014/03/14 06:25:49 UTC,Training,Donna,Womack,ACCEPTED
+2014/03/14 06:25:38 UTC,Policy,Rebecca,Lopez Kriss,ACCEPTED
+2014/03/14 06:25:35 UTC,Management,Jen,Sears Moore,ACCEPTED
+2014/03/14 06:25:27 UTC,Windows Server,Andy,Spivey,ACCEPTED
+2014/03/14 06:25:20 UTC,Radio,Steven,Roth,ACCEPTED
+2014/03/14 06:25:19 UTC,Strategic Planning,"dave ""cully""",culbreath,ACCEPTED
+2014/03/14 06:25:14 UTC,Microsoft SQL Server,Jonathan,Dupont,ACCEPTED
+2014/03/14 06:25:08 UTC,Public Policy,Rebecca,Lopez Kriss,ACCEPTED
+2014/03/14 06:25:06 UTC,JavaScript,Jonathan,Dupont,ACCEPTED
+2014/03/14 06:25:03 UTC,Unix,Kevin,Eldridge,ACCEPTED
+2014/03/14 06:24:56 UTC,Security,Gordon,Meyers,PENDING
+2014/03/14 06:24:46 UTC,Producing,David,Shamban,PENDING
+2014/03/14 06:24:45 UTC,MySQL,Oleg,Dubas,ACCEPTED
+2014/03/14 06:24:35 UTC,Community Outreach,Rebecca,Lopez Kriss,ACCEPTED
+2014/03/14 06:24:33 UTC,MVC,Shean,Massey,ACCEPTED
+2014/03/14 06:24:31 UTC,Purchasing,Nicholas,West,ACCEPTED
+2014/03/14 06:21:50 UTC,Photoshop,Jason,Monaghan,PENDING
+2014/03/14 06:21:44 UTC,NetApp,Justin,Rogers,PENDING
+2014/03/14 06:21:42 UTC,Networking,Gordon,Meyers,PENDING
+2014/03/14 06:21:35 UTC,Email Marketing,"dave ""cully""",culbreath,ACCEPTED
+2014/03/14 06:21:27 UTC,MySQL,Pavel,Nichoski,ACCEPTED
+2014/03/14 06:21:06 UTC,Commercials,David,Shamban,PENDING
+2014/03/14 06:20:51 UTC,Network Administration,Gordon,Meyers,PENDING
+2014/03/14 06:20:48 UTC,Microsoft SQL Server,Ben,Tidman,ACCEPTED
+2014/03/14 06:20:24 UTC,CRM,Kristy,Jones Clay,ACCEPTED
+2014/03/14 06:20:17 UTC,Apache,Pavel,Nichoski,ACCEPTED
+2014/03/14 06:20:13 UTC,VMware,Josh,Catana,ACCEPTED
+2014/03/14 06:20:07 UTC,Electronics,Josh,Catana,ACCEPTED
+2014/03/14 06:20:05 UTC,jQuery,Shean,Massey,ACCEPTED
+2014/03/14 06:19:56 UTC,.NET,Ben,Tidman,ACCEPTED
+2014/03/14 06:19:51 UTC,C#,Jonathan,Dupont,ACCEPTED
+2014/03/14 06:19:47 UTC,Software Development,Ryan,Moran,ACCEPTED
+2014/03/14 06:19:44 UTC,Analysis,Zach,Kimbrough,ACCEPTED
+2014/03/14 06:19:35 UTC,Software Development,Ben,Tidman,ACCEPTED
+2014/03/14 06:19:30 UTC,JSON,Shean,Massey,ACCEPTED
+2014/03/14 06:19:28 UTC,Final Cut Pro,Steven,Roth,ACCEPTED
+2014/03/14 06:19:26 UTC,Windows Server,Kevin,Eldridge,ACCEPTED
+2014/03/14 06:19:23 UTC,Video,Steven,Roth,ACCEPTED
+2014/03/14 06:19:12 UTC,HTML 5,Steven,St. Clair,ACCEPTED
+2014/03/14 06:19:08 UTC,Art Direction,Nicole,Koestel ,ACCEPTED
+2014/03/14 06:18:58 UTC,Technical Support,Nicholas,West,ACCEPTED
+2014/03/14 06:18:56 UTC,Management,Nicholas,West,ACCEPTED
+2014/03/14 06:18:51 UTC,JSON,Oleg,Dubas,ACCEPTED
+2014/03/14 06:18:49 UTC,Time Management,Jen,Sears Moore,ACCEPTED
+2014/03/14 06:18:47 UTC,Management,Kristy,Jones Clay,ACCEPTED
+2014/03/14 06:18:44 UTC,Customer Service,Caitlin,Gibson,ACCEPTED
+2014/03/14 06:18:42 UTC,jQuery,Oleg,Dubas,ACCEPTED
+2013/03/16 01:30:12 UTC,Linux,Jad,Wauthier,PENDING
+2013/03/16 01:30:09 UTC,JavaScript,Ryan,Moran,ACCEPTED
+2013/03/16 01:29:58 UTC,Microsoft Exchange,Justin,Rogers,PENDING
+2013/03/16 01:29:55 UTC,MySQL,Justin,Rogers,PENDING
+2013/03/16 01:29:52 UTC,Commercials,Bill,Filipiak,ACCEPTED
+2013/03/16 01:29:49 UTC,Agile Methodologies,Ben,Tidman,ACCEPTED
+2013/03/16 01:29:44 UTC,International Relations,Charlie,McMackin,ACCEPTED
+2013/03/16 01:29:35 UTC,Help Desk Support,Nicholas,West,ACCEPTED
+2013/03/16 01:29:31 UTC,Video,Amelia,Adkins,ACCEPTED
+2013/03/16 01:29:27 UTC,vSphere,Justin,Rogers,PENDING
+2013/03/16 01:29:12 UTC,Advertising,Nicole,Koestel ,ACCEPTED
+2013/03/16 01:29:06 UTC,Databases,Jad,Wauthier,PENDING
+2013/03/16 01:29:04 UTC,HTML,Jad,Wauthier,PENDING
+2013/03/16 01:29:01 UTC,Logo Design,Nicole,Koestel ,ACCEPTED
+2013/03/16 01:28:59 UTC,AJAX,Oleg,Dubas,ACCEPTED
+2013/03/16 01:28:51 UTC,Adobe Creative Suite,Caitlin,Gibson,ACCEPTED
+2013/03/14 20:48:58 UTC,Music,Steven,Roth,ACCEPTED
+2013/03/14 20:48:54 UTC,Photoshop,Nicole,Koestel ,ACCEPTED
+2013/03/14 20:48:52 UTC,Linux,Pavel,Nichoski,ACCEPTED
+2013/03/14 20:48:51 UTC,Linux,Kevin,Eldridge,ACCEPTED
+2013/03/14 20:48:49 UTC,Perl,Jad,Wauthier,PENDING
+2013/03/14 20:48:46 UTC,Microsoft Servers,Justin,Rogers,PENDING
+2013/03/14 20:48:43 UTC,Linux,Pablo,Martinez Zurano,ACCEPTED
+2013/03/14 20:48:37 UTC,Creative Direction,David,Shamban,ACCEPTED
+2013/03/14 20:48:29 UTC,Office Management,Nicholas,West,ACCEPTED
+2013/03/14 20:48:23 UTC,Unix Shell Scripting,Shean,Massey,ACCEPTED
+2013/03/14 20:48:20 UTC,Apache,Oleg,Dubas,ACCEPTED
+2013/03/14 20:48:18 UTC,Windows Server,Gordon,Meyers,PENDING
+2013/03/14 20:48:11 UTC,Intercultural Communication,Charlie,McMackin,ACCEPTED
+2013/03/14 20:48:04 UTC,PHP,Oleg,Dubas,ACCEPTED
+2013/03/14 20:47:57 UTC,Java,Ben,Tidman,ACCEPTED
+2013/03/14 20:47:55 UTC,Linux,Gordon,Meyers,PENDING
+2013/03/14 20:47:53 UTC,Active Directory,Jonathan,Dupont,ACCEPTED
+2013/03/14 20:47:50 UTC,Training,Alathea,Thompson Baker,ACCEPTED
+2013/03/14 20:47:48 UTC,Film,Steven,Roth,ACCEPTED
+2013/03/14 20:47:34 UTC,Manufacturing,Josh,Catana,ACCEPTED
+2013/03/14 20:47:31 UTC,Grants,Rebecca,Lopez Kriss,ACCEPTED
