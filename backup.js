@@ -1,10 +1,9 @@
 const fs = require('fs');
 const inquirer = require('inquirer')
 let rawdata = fs.readFileSync("output/Positions.json");
-let rawHon = fs.readFileSync("output/Honors.json");
 
 let res = JSON.parse(rawdata);
-let hon = JSON.parse(rawHon);
+
 
 
 var questions = [
@@ -209,24 +208,23 @@ inquirer.prompt(questions).then(answers => {
     let data = JSON.stringify(basics);
     fs.writeFileSync('basics.json', data);
     resume.basics = basics
-    for (i = 0; i < res.length; i++) {
-        if(!res[i]["Description"].endsWith(".")){
-            res[i]["Description"] = res[i]["Description"] + "."
-        }
-        resume.work[i] = {
-            "name": res[i]["Company Name"],
-            "position":res[i]["Title"],
-            "url": "",
-            "startDate": res[i]["Started On"],
-            "endDate": res[i]["Finished On"],
-            "summary": res[i]["Description"],
-            "highlights": [
-                ""
-            ]
-        }
-
+for (i = 0; i < res.length; i++) {
+if(!res[i]["Description"].endsWith(".")){
+res[i]["Description"] = res[i]["Description"] + "."
+}
+    resume.work[i] = {
+        "name": res[i]["Company Name"],
+        "position":res[i]["Title"],
+        "url": "",
+        "startDate": res[i]["Started On"],
+        "endDate": res[i]["Finished On"],
+        "summary": res[i]["Description"],
+        "highlights": [
+            ""
+        ]
     }
 
+}
     console.log(resume)
 
     let compile = JSON.stringify(resume);

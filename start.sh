@@ -43,6 +43,9 @@ echo "Example Location:"
 echo "/home/dusty/download/Honors.csv"
 echo "or"
 echo "Honors.csv"
+read HON
+csv2json $HON > output/Honors.json
+
 
 node first.js
 node json2latex.js > output/resume.tex
