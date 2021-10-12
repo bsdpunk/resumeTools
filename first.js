@@ -73,8 +73,6 @@ var questions = [
 var basics
 
 
-
-
 inquirer.prompt(questions).then(answers => {
     basics = {
         "name": answers.bname,
@@ -226,6 +224,16 @@ inquirer.prompt(questions).then(answers => {
         }
 
     }
+    for (i = 0; i < hon.length; i++) {
+        resume.awards[i] = {
+            "title": hon[i]["Title"],
+            "summary":hon[i]["Description"],
+            "date": hon[i]["Issued On"]
+           
+        }
+
+    }
+
 
     console.log(resume)
 
