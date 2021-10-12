@@ -31,6 +31,19 @@ echo "or"
 echo "Positions.csv"
 read POS
 csv2json $POS > output/Positions.json
+echo "Where is your Honors.csv file?"
+echo "This is a csv either exported from linkedin or HandCreated"
+echo "Example CSV:"
+
+echo "Title,Description,Issued On"
+echo "Information Technology Award Recipient,This is given to one student of each graduating class for excellence in their particular field.,"
+
+
+echo "Example Location:"
+echo "/home/dusty/download/Honors.csv"
+echo "or"
+echo "Honors.csv"
+
 node first.js
 node json2latex.js > output/resume.tex
 pdflatex --output-directory=output output/resume.tex
