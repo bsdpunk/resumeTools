@@ -1,9 +1,12 @@
 const fs = require('fs');
 const inquirer = require('inquirer')
 let rawdata = fs.readFileSync("output/Positions.json");
+let rawHon = fs.readFileSync("output/Honors.json");
+let rawSki = fs.readFileSync("output/Skills.json");
 
 let res = JSON.parse(rawdata);
-
+let hon = JSON.parse(rawHon);
+let skill = JSON.parse(rawSki);
 
 
 var questions = [
@@ -70,8 +73,6 @@ var questions = [
     }
 ]
 var basics
-
-
 
 
 inquirer.prompt(questions).then(answers => {
@@ -208,23 +209,42 @@ inquirer.prompt(questions).then(answers => {
     let data = JSON.stringify(basics);
     fs.writeFileSync('basics.json', data);
     resume.basics = basics
-for (i = 0; i < res.length; i++) {
-if(!res[i]["Description"].endsWith(".")){
-res[i]["Description"] = res[i]["Description"] + "."
-}
-    resume.work[i] = {
-        "name": res[i]["Company Name"],
-        "position":res[i]["Title"],
-        "url": "",
-        "startDate": res[i]["Started On"],
-        "endDate": res[i]["Finished On"],
-        "summary": res[i]["Description"],
-        "highlights": [
-            ""
-        ]
+    for (i = 0; i < res.length; i++) {
+        if(!res[i]["Description"].endsWith(".")){
+            res[i]["Description"] = res[i]["Description"] + "."
+        }
+        resume.work[i] = {
+            "name": res[i]["Company Name"],
+            "position":res[i]["Title"],
+            "url": "",
+            "startDate": res[i]["Started On"],
+            "endDate": res[i]["Finished On"],
+            "summary": res[i]["Description"],
+            "highlights": [
+                ""
+            ]
+        }
+
+    }
+    for (i = 0; i < hon.length; i++) {
+        resume.awards[i] = {
+            "title": hon[i]["Title"],
+            "summary":hon[i]["Description"],
+            "date": hon[i]["Issued On"]
+           
+        }
+
     }
 
-}
+    for (i = 0; i < skill.length; i++) {
+        resume.skills[i] = {
+            "name": skill[i]["Name"],
+            "level": "2",
+            "keywords": "ford"
+        }
+
+    }
+
     console.log(resume)
 
     let compile = JSON.stringify(resume);

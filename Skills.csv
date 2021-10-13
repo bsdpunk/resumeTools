@@ -1,13 +1,13 @@
-Name
-Linux
-MySQL
-Apache
-JavaScript
-PHP
-jQuery
-Web Development
-Windows Server
-Networking
+Name,Level,Keywords
+Linux,9,OpenSource Unix 
+MySQL,4, SQL 
+Apache, 9, WebDevelopment Infrastructure
+JavaScript, 6, WebDevelopment
+PHP, 6 , WebDevelopment
+jQuery, 4, WebDevelopment
+WebDevelopment, 7, JavaScript Apache
+Windows Server, 3, Infrastructure
+Networking, 7, Cisco Infrastructure
 Microsoft SQL Server
 XML
 Software Development

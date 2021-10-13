@@ -238,8 +238,17 @@ inquirer.prompt(questions).then(answers => {
 
     for (i = 0; i < skill.length; i++) {
         resume.skills[i] = {
-            "name": skill[i]["Name"]
+            "name": skill[i]["Name"],
+
+            //"level": skill[i]["Level"],
+            //"keywords": (skill[i]["Keywords"].split(" ") || [])
+//
+           "keywords": (skill[i]["Keywords"] || '' ).split(' ')
+            //"keywords": resume.skills.keuwords.split(" ")
+
+            //(someArr || []).split(' ')
         }
+       //console.log((skill[i]["Keywords"] || []).split(' '))
 
     }
 
